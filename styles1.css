@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: #d9faf9;
+}
+header{
+background-color: #60f7f3;
+margin: 10px;
+padding: 10px;
+}
+img{
+width: 80px;
+height: 80px;
+}
+footer{
+    background-color: #60f7f3;
+}
+main img{
+    border:10px dotted plum;
+    margin: 10px;
+    padding: 10px;
+}
+header img{
+    margin: 10px ;
+}
+header a{
+    text-align: center;
+    border: 1px solid blue;
+    padding:10px;
+    margin:10px;
+
+}
+.chuches li {
+display:inline;
+}
+header ul li{
+    display:inline
+}
+
