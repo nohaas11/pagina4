@@ -1,0 +1,29 @@
+header{
+ background-color:#82f05d ;  
+ margin:10px;
+ padding: 10px; 
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+main img{
+    border:10px dotted blue;
+}
+footer{
+    background-color: #82f05d;
+}
+body{
+   background-color: #c0f5ae ;
+}
+header ul li{
+    display:inline;
+}
+header a{
+    border:1px solid blue;
+    text-align:center;
+    padding: :10px;
+    margin:10px
+}
+
+    
